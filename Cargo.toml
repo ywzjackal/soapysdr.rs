@@ -1,0 +1,7 @@
+[package]
+name = "soapysdr-rs"
+version = "0.1.0"
+authors = ["ywzjackal <ywzjackal@163.com>"]
+[dependencies]
+libc = "0.2"
+num = "0.1"
